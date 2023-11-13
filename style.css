@@ -122,5 +122,28 @@ nav{
     margin:0.25em;
     border-radius: 0.5em;
     border-width:0.2em;
+}
 
+.features2 h2,h4{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: Left;
+}
+
+.group1{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: Right;
+}
+
+.group2{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: Left;
+
+}
+.features2 h3,h5{
+    margin-left:auto;
+    margin-right:auto;
+    text-align: Right;
 }
